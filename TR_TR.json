@@ -48,6 +48,8 @@
     "desc_backup": "Her kayıtta vault.pgrd.bak dosyası oluşturur.",
     "set_screenshot": "Ekran Görüntüsü Koruması",
     "desc_screenshot": "Ekran görüntüsü alınmasını engellemeye çalışır (Windows).",
+    "set_lang_cache": "Çevrimdışı Dil Desteği",
+    "desc_lang_cache": "İndirilen dil dosyasını kaydeder, böylece sonraki açılışta internet gerekmez.",
     "btn_change_master": "Master Şifreyi Değiştir",
     "btn_save_close": "Kaydet ve Kapat",
     "warn_device": "Cihaza bağlama açıldı. Bu dosyayı başka bilgisayarda açamayacaksınız! Onaylıyor musunuz?",
@@ -68,6 +70,14 @@
     "msg_master_success": "Master şifre başarıyla değiştirildi.",
     "msg_master_fail": "Kaydetme başarısız: {0}",
     "net_error": "Dil değiştirmek için internet bağlantısı gereklidir.",
-    "lang_en": "İngilizce",
-    "lang_tr": "Türkçe"
+    "lang_en": "English",
+    "lang_tr": "Türkçe",
+    "lang_de": "Deutsch",
+    "lang_fr": "Français",
+    "cat_social": "Sosyal Medya",
+    "cat_work": "İş",
+    "cat_email": "E-Posta",
+    "cat_finance": "Finans",
+    "cat_gaming": "Oyun",
+    "cat_other": "Diğer"
 }
