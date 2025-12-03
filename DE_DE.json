@@ -48,6 +48,8 @@
     "desc_backup": "Erstellt bei jedem Speichern eine .bak-Kopie Ihres Tresors.",
     "set_screenshot": "Screenshot-Schutz",
     "desc_screenshot": "Verhindert Bildschirmaufnahmen (nur Windows).",
+    "set_lang_cache": "Offline-Sprachunterstützung",
+    "desc_lang_cache": "Speichert die Sprachdatei lokal für die Offline-Nutzung beim nächsten Start.",
     "btn_change_master": "Master-Passwort ändern",
     "btn_save_close": "Speichern & Schließen",
     "warn_device": "Gerätebindung aktiviert. Sie können diese Datei nicht auf einem anderen PC öffnen! Bestätigen?",
@@ -68,7 +70,14 @@
     "msg_master_success": "Master-Passwort erfolgreich geändert.",
     "msg_master_fail": "Speichern fehlgeschlagen: {0}",
     "net_error": "Internetverbindung zum Herunterladen des Sprachpakets erforderlich.",
-    "lang_en": "Englisch",
-    "lang_tr": "Türkisch (Download)",
-    "lang_de": "Deutsch (Download)"
+    "lang_en": "English",
+    "lang_tr": "Türkçe",
+    "lang_de": "Deutsch",
+    "lang_fr": "Français",
+    "cat_social": "Soziale Medien",
+    "cat_work": "Arbeit",
+    "cat_email": "E-Mail",
+    "cat_finance": "Finanzen",
+    "cat_gaming": "Gaming",
+    "cat_other": "Sonstiges"
 }
