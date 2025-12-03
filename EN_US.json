@@ -48,6 +48,8 @@
     "desc_backup": "Creates a .bak copy of your vault on every save.",
     "set_screenshot": "Screenshot Protection",
     "desc_screenshot": "Prevents screen capture (Windows only).",
+    "set_lang_cache": "Offline Language Support",
+    "desc_lang_cache": "Saves the downloaded language file locally for offline use on next startup.",
     "btn_change_master": "Change Master Password",
     "btn_save_close": "Save & Close",
     "warn_device": "Device binding enabled. You won't be able to open this file on another PC! Confirm?",
@@ -67,7 +69,15 @@
     "lbl_new_pw_rep": "Repeat New Password:",
     "msg_master_success": "Master password changed successfully.",
     "msg_master_fail": "Save failed: {0}",
-    "net_error": "Internet connection required to change language.",
+    "net_error": "Internet connection required to download language pack.",
     "lang_en": "English",
-    "lang_tr": "Turkish"
+    "lang_tr": "Türkçe",
+    "lang_de": "Deutsch",
+    "lang_fr": "Français",
+    "cat_social": "Social Media",
+    "cat_work": "Work",
+    "cat_email": "Email",
+    "cat_finance": "Finance",
+    "cat_gaming": "Gaming",
+    "cat_other": "Other"
 }
