@@ -49,7 +49,7 @@
     "set_screenshot": "Screenshot Protection",
     "desc_screenshot": "Prevents screen capture (Windows only).",
     "set_lang_cache": "Offline Language Support",
-    "desc_lang_cache": "Saves the downloaded language file locally for offline use on next startup.",
+    "desc_lang_cache": "Saves the downloaded language file encrypted locally for offline use.",
     "btn_change_master": "Change Master Password",
     "btn_save_close": "Save & Close",
     "warn_device": "Device binding enabled. You won't be able to open this file on another PC! Confirm?",
@@ -79,5 +79,13 @@
     "cat_email": "Email",
     "cat_finance": "Finance",
     "cat_gaming": "Gaming",
-    "cat_other": "Other"
+    "cat_other": "Other",
+    "set_theme": "Light Theme",
+    "desc_theme": "Switch between Dark and Light appearance.",
+    "corrupt_title": "Vault Integrity Check Failed",
+    "corrupt_msg": "The vault file appears to be damaged or modified externally.",
+    "corrupt_inst": "If you have auto-backup enabled, you can restore your data by deleting 'vault.pgrd' and renaming 'vault.pgrd.bak' to 'vault.pgrd'.",
+    "btn_open_folder": "Open Data Folder",
+    "app_running": "Already Running",
+    "app_running_msg": "Another instance of PasswordGRD is already active."
 }
