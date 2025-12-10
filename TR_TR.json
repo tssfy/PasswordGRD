@@ -49,7 +49,7 @@
     "set_screenshot": "Ekran Görüntüsü Koruması",
     "desc_screenshot": "Ekran görüntüsü alınmasını engellemeye çalışır (Windows).",
     "set_lang_cache": "Çevrimdışı Dil Desteği",
-    "desc_lang_cache": "İndirilen dil dosyasını kaydeder, böylece sonraki açılışta internet gerekmez.",
+    "desc_lang_cache": "İndirilen dil dosyasını şifreli olarak kaydeder, böylece sonraki açılışta internet gerekmez.",
     "btn_change_master": "Master Şifreyi Değiştir",
     "btn_save_close": "Kaydet ve Kapat",
     "warn_device": "Cihaza bağlama açıldı. Bu dosyayı başka bilgisayarda açamayacaksınız! Onaylıyor musunuz?",
@@ -79,5 +79,13 @@
     "cat_email": "E-Posta",
     "cat_finance": "Finans",
     "cat_gaming": "Oyun",
-    "cat_other": "Diğer"
+    "cat_other": "Diğer",
+    "set_theme": "Açık Tema",
+    "desc_theme": "Koyu ve Açık tema arasında geçiş yapın.",
+    "corrupt_title": "Kasa Bütünlük Hatası",
+    "corrupt_msg": "Kasa dosyası hasar görmüş veya dışarıdan değiştirilmiş görünüyor.",
+    "corrupt_inst": "Otomatik yedekleme açıksa, verilerinizi kurtarmak için 'vault.pgrd' dosyasını silip 'vault.pgrd.bak' dosyasının adını 'vault.pgrd' olarak değiştirin.",
+    "btn_open_folder": "Veri Klasörünü Aç",
+    "app_running": "Zaten Çalışıyor",
+    "app_running_msg": "PasswordGRD uygulamasının başka bir örneği zaten açık."
 }
