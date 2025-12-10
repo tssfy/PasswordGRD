@@ -49,7 +49,7 @@
     "set_screenshot": "Protection contre les captures d'écran",
     "desc_screenshot": "Empêche la capture d'écran (Windows uniquement).",
     "set_lang_cache": "Support linguistique hors ligne",
-    "desc_lang_cache": "Enregistre le fichier de langue localement pour une utilisation hors ligne au prochain démarrage.",
+    "desc_lang_cache": "Enregistre le fichier de langue crypté localement pour une utilisation hors ligne.",
     "btn_change_master": "Changer le mot de passe maître",
     "btn_save_close": "Sauvegarder & Fermer",
     "warn_device": "Liaison d'appareil activée. Vous ne pourrez pas ouvrir ce fichier sur un autre PC ! Confirmer ?",
@@ -79,5 +79,13 @@
     "cat_email": "E-mail",
     "cat_finance": "Finance",
     "cat_gaming": "Jeux",
-    "cat_other": "Autre"
+    "cat_other": "Autre",
+    "set_theme": "Thème Clair",
+    "desc_theme": "Basculer entre l'apparence sombre et claire.",
+    "corrupt_title": "Échec de l'intégrité du coffre",
+    "corrupt_msg": "Le fichier du coffre semble être endommagé ou modifié de l'extérieur.",
+    "corrupt_inst": "Si la sauvegarde automatique est activée, vous pouvez restaurer vos données en supprimant 'vault.pgrd' et en renommant 'vault.pgrd.bak' en 'vault.pgrd'.",
+    "btn_open_folder": "Ouvrir le dossier de données",
+    "app_running": "Déjà en cours d'exécution",
+    "app_running_msg": "Une autre instance de PasswordGRD est déjà active."
 }
