@@ -86,6 +86,12 @@
     "corrupt_msg": "The vault file appears to be damaged or modified externally.",
     "corrupt_inst": "If you have auto-backup enabled, you can restore your data by deleting 'vault.pgrd' and renaming 'vault.pgrd.bak' to 'vault.pgrd'.",
     "btn_open_folder": "Open Data Folder",
-    "app_running": "Already Running",
-    "app_running_msg": "Another instance of PasswordGRD is already active."
+    "app_running": "PasswordGRD is Already in Use",
+    "app_running_msg": "Close the other PasswordGRD window and try again.",
+    "update_available_title": "New Version Available",
+    "update_available_msg": "Click to download the new version:",
+    "update_new_version": "New version: {0}",
+    "update_current_version": "Current version: {0}",
+    "btn_update_download": "Download New Version",
+    "btn_not_now": "Not now"
 }
