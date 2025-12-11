@@ -52,7 +52,7 @@
     "desc_lang_cache": "Enregistre le fichier de langue crypté localement pour une utilisation hors ligne.",
     "btn_change_master": "Changer le mot de passe maître",
     "btn_save_close": "Sauvegarder & Fermer",
-    "warn_device": "Liaison d'appareil activée. Vous ne pourrez pas ouvrir ce fichier sur un autre PC ! Confirmer ?",
+    "warn_device": "Liaison d'appareil activée. Vous ne pourrez pas ouvrir ce fichier sur un autre PC! Confirmer ?",
     "btn_yes": "Oui",
     "restart_title": "Redémarrage nécessaire",
     "restart_msg": "Les paramètres ont été modifiés. L'application va redémarrer pour appliquer les changements.",
@@ -86,6 +86,12 @@
     "corrupt_msg": "Le fichier du coffre semble être endommagé ou modifié de l'extérieur.",
     "corrupt_inst": "Si la sauvegarde automatique est activée, vous pouvez restaurer vos données en supprimant 'vault.pgrd' et en renommant 'vault.pgrd.bak' en 'vault.pgrd'.",
     "btn_open_folder": "Ouvrir le dossier de données",
-    "app_running": "Déjà en cours d'exécution",
-    "app_running_msg": "Une autre instance de PasswordGRD est déjà active."
+    "app_running": "PasswordGRD est déjà utilisé",
+    "app_running_msg": "Fermez l'autre fenêtre PasswordGRD et réessayez.",
+    "update_available_title": "Nouvelle Version Disponible",
+    "update_available_msg": "Cliquez pour télécharger la nouvelle version :",
+    "update_new_version": "Nouvelle version : {0}",
+    "update_current_version": "Version actuelle : {0}",
+    "btn_update_download": "Télécharger la Nouvelle Version",
+    "btn_not_now": "Pas maintenant"
 }
