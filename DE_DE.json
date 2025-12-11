@@ -86,6 +86,12 @@
     "corrupt_msg": "Die Tresordatei scheint beschädigt oder extern modifiziert worden zu sein.",
     "corrupt_inst": "Wenn das automatische Backup aktiviert ist, können Sie Ihre Daten wiederherstellen, indem Sie 'vault.pgrd' löschen und 'vault.pgrd.bak' in 'vault.pgrd' umbenennen.",
     "btn_open_folder": "Datenordner öffnen",
-    "app_running": "Bereits ausgeführt",
-    "app_running_msg": "Eine weitere Instanz von PasswordGRD ist bereits aktiv."
+    "app_running": "PasswordGRD wird bereits verwendet",
+    "app_running_msg": "Schließen Sie das andere PasswordGRD-Fenster und versuchen Sie es erneut.",
+    "update_available_title": "Neue Version verfügbar",
+    "update_available_msg": "Klicken Sie, um die neue Version herunterzuladen:",
+    "update_new_version": "Neue Version: {0}",
+    "update_current_version": "Aktuelle Version: {0}",
+    "btn_update_download": "Neue Version herunterladen",
+    "btn_not_now": "Jetzt nicht"
 }
