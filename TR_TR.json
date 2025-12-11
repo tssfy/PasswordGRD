@@ -86,6 +86,12 @@
     "corrupt_msg": "Kasa dosyası hasar görmüş veya dışarıdan değiştirilmiş görünüyor.",
     "corrupt_inst": "Otomatik yedekleme açıksa, verilerinizi kurtarmak için 'vault.pgrd' dosyasını silip 'vault.pgrd.bak' dosyasının adını 'vault.pgrd' olarak değiştirin.",
     "btn_open_folder": "Veri Klasörünü Aç",
-    "app_running": "Zaten Çalışıyor",
-    "app_running_msg": "PasswordGRD uygulamasının başka bir örneği zaten açık."
+    "app_running": "PasswordGRD Zaten Kullanılıyor",
+    "app_running_msg": "Diğer PasswordGRD penceresini kapatıp tekrar deneyin.",
+    "update_available_title": "Yeni Sürüm Mevcut",
+    "update_available_msg": "Yeni sürümü indirmek için tıklayın:",
+    "update_new_version": "Yeni sürüm: {0}",
+    "update_current_version": "Mevcut sürüm: {0}",
+    "btn_update_download": "Yeni Sürümü İndir",
+    "btn_not_now": "Şimdi değil"
 }
